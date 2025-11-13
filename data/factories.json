@@ -1,0 +1,1277 @@
+{
+  "message": "Amana Industries factory data retrieved successfully",
+  "company_info": {
+    "name": "Amana Industries",
+    "founded": "2016",
+    "headquarters": "Amman, Jordan",
+    "industry": "Textile Manufacturing",
+    "description": "Leading textile manufacturer operating across Jordan and Egypt, specializing in sustainable and high-quality fabric production."
+  },
+  "factory_data": [
+    {
+      "id": 1,
+      "name": "Amana Textiles Amman",
+      "location": {
+        "city": "Amman",
+        "country": "Jordan",
+        "latitude": 31.9454,
+        "longitude": 35.9284,
+        "address": "Industrial City, Sahab, Amman 11512, Jordan"
+      },
+      "status": "operational",
+      "established": "2018",
+      "employees": 450,
+      "specialization": [
+        "Cotton Fabrics",
+        "Denim",
+        "Casual Wear"
+      ],
+      "production_capacity_monthly": 850,
+      "production_level_2024": [
+        {
+          "month": "January",
+          "value": 767
+        },
+        {
+          "month": "February",
+          "value": 826
+        },
+        {
+          "month": "March",
+          "value": 792
+        },
+        {
+          "month": "April",
+          "value": 946
+        },
+        {
+          "month": "May",
+          "value": 916
+        },
+        {
+          "month": "June",
+          "value": 741
+        },
+        {
+          "month": "July",
+          "value": 721
+        },
+        {
+          "month": "August",
+          "value": 809
+        },
+        {
+          "month": "September",
+          "value": 897
+        },
+        {
+          "month": "October",
+          "value": 1035
+        },
+        {
+          "month": "November",
+          "value": 934
+        },
+        {
+          "month": "December",
+          "value": 1045
+        }
+      ],
+      "inventory_level_2024": [
+        {
+          "month": "January",
+          "value": 562
+        },
+        {
+          "month": "February",
+          "value": 734
+        },
+        {
+          "month": "March",
+          "value": 886
+        },
+        {
+          "month": "April",
+          "value": 1069
+        },
+        {
+          "month": "May",
+          "value": 1085
+        },
+        {
+          "month": "June",
+          "value": 1139
+        },
+        {
+          "month": "July",
+          "value": 1174
+        },
+        {
+          "month": "August",
+          "value": 1249
+        },
+        {
+          "month": "September",
+          "value": 1195
+        },
+        {
+          "month": "October",
+          "value": 1294
+        },
+        {
+          "month": "November",
+          "value": 1252
+        },
+        {
+          "month": "December",
+          "value": 1418
+        }
+      ],
+      "contact": {
+        "manager": "Omar Al-Rashid",
+        "phone": "+962-6-4291847",
+        "email": "omar.rashid@amana-textiles.com"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Amana Spinning Irbid",
+      "location": {
+        "city": "Irbid",
+        "country": "Jordan",
+        "latitude": 32.5556,
+        "longitude": 35.85,
+        "address": "King Abdullah II Industrial Estate, Irbid, Jordan"
+      },
+      "status": "operational",
+      "established": "2020",
+      "employees": 320,
+      "specialization": [
+        "Cotton Spinning",
+        "Yarn Production",
+        "Blended Fibers"
+      ],
+      "production_capacity_monthly": 650,
+      "production_level_2024": [
+        {
+          "month": "January",
+          "value": 592
+        },
+        {
+          "month": "February",
+          "value": 651
+        },
+        {
+          "month": "March",
+          "value": 732
+        },
+        {
+          "month": "April",
+          "value": 738
+        },
+        {
+          "month": "May",
+          "value": 722
+        },
+        {
+          "month": "June",
+          "value": 501
+        },
+        {
+          "month": "July",
+          "value": 610
+        },
+        {
+          "month": "August",
+          "value": 624
+        },
+        {
+          "month": "September",
+          "value": 779
+        },
+        {
+          "month": "October",
+          "value": 708
+        },
+        {
+          "month": "November",
+          "value": 664
+        },
+        {
+          "month": "December",
+          "value": 804
+        }
+      ],
+      "inventory_level_2024": [
+        {
+          "month": "January",
+          "value": 465
+        },
+        {
+          "month": "February",
+          "value": 441
+        },
+        {
+          "month": "March",
+          "value": 403
+        },
+        {
+          "month": "April",
+          "value": 624
+        },
+        {
+          "month": "May",
+          "value": 604
+        },
+        {
+          "month": "June",
+          "value": 721
+        },
+        {
+          "month": "July",
+          "value": 802
+        },
+        {
+          "month": "August",
+          "value": 898
+        },
+        {
+          "month": "September",
+          "value": 875
+        },
+        {
+          "month": "October",
+          "value": 930
+        },
+        {
+          "month": "November",
+          "value": 1095
+        },
+        {
+          "month": "December",
+          "value": 1116
+        }
+      ],
+      "contact": {
+        "manager": "Fatima Qasemi",
+        "phone": "+962-2-7201945",
+        "email": "fatima.qasemi@amana-textiles.com"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Amana Weaving Zarqa",
+      "location": {
+        "city": "Zarqa",
+        "country": "Jordan",
+        "latitude": 32.0728,
+        "longitude": 36.0876,
+        "address": "Zarqa Industrial Estate, Zarqa 13110, Jordan"
+      },
+      "status": "maintenance",
+      "established": "2017",
+      "employees": 280,
+      "specialization": [
+        "Technical Textiles",
+        "Industrial Fabrics",
+        "Home Textiles"
+      ],
+      "production_capacity_monthly": 420,
+      "production_level_2024": [
+        {
+          "month": "January",
+          "value": 339
+        },
+        {
+          "month": "February",
+          "value": 325
+        },
+        {
+          "month": "March",
+          "value": 268
+        },
+        {
+          "month": "April",
+          "value": 258
+        },
+        {
+          "month": "May",
+          "value": 286
+        },
+        {
+          "month": "June",
+          "value": 266
+        },
+        {
+          "month": "July",
+          "value": 235
+        },
+        {
+          "month": "August",
+          "value": 268
+        },
+        {
+          "month": "September",
+          "value": 369
+        },
+        {
+          "month": "October",
+          "value": 371
+        },
+        {
+          "month": "November",
+          "value": 332
+        },
+        {
+          "month": "December",
+          "value": 278
+        }
+      ],
+      "inventory_level_2024": [
+        {
+          "month": "January",
+          "value": 506
+        },
+        {
+          "month": "February",
+          "value": 579
+        },
+        {
+          "month": "March",
+          "value": 598
+        },
+        {
+          "month": "April",
+          "value": 612
+        },
+        {
+          "month": "May",
+          "value": 606
+        },
+        {
+          "month": "June",
+          "value": 619
+        },
+        {
+          "month": "July",
+          "value": 597
+        },
+        {
+          "month": "August",
+          "value": 621
+        },
+        {
+          "month": "September",
+          "value": 682
+        },
+        {
+          "month": "October",
+          "value": 668
+        },
+        {
+          "month": "November",
+          "value": 642
+        },
+        {
+          "month": "December",
+          "value": 686
+        }
+      ],
+      "contact": {
+        "manager": "Ahmad Mansour",
+        "phone": "+962-5-3982746",
+        "email": "ahmad.mansour@amana-textiles.com"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Amana Premium Aqaba",
+      "location": {
+        "city": "Aqaba",
+        "country": "Jordan",
+        "latitude": 29.532,
+        "longitude": 35.0063,
+        "address": "Aqaba Special Economic Zone, Aqaba 77110, Jordan"
+      },
+      "status": "operational",
+      "established": "2021",
+      "employees": 380,
+      "specialization": [
+        "Luxury Fabrics",
+        "Export Quality",
+        "Organic Cotton"
+      ],
+      "production_capacity_monthly": 720,
+      "production_level_2024": [
+        {
+          "month": "January",
+          "value": 718
+        },
+        {
+          "month": "February",
+          "value": 717
+        },
+        {
+          "month": "March",
+          "value": 823
+        },
+        {
+          "month": "April",
+          "value": 779
+        },
+        {
+          "month": "May",
+          "value": 670
+        },
+        {
+          "month": "June",
+          "value": 582
+        },
+        {
+          "month": "July",
+          "value": 610
+        },
+        {
+          "month": "August",
+          "value": 630
+        },
+        {
+          "month": "September",
+          "value": 747
+        },
+        {
+          "month": "October",
+          "value": 867
+        },
+        {
+          "month": "November",
+          "value": 682
+        },
+        {
+          "month": "December",
+          "value": 739
+        }
+      ],
+      "inventory_level_2024": [
+        {
+          "month": "January",
+          "value": 661
+        },
+        {
+          "month": "February",
+          "value": 697
+        },
+        {
+          "month": "March",
+          "value": 743
+        },
+        {
+          "month": "April",
+          "value": 671
+        },
+        {
+          "month": "May",
+          "value": 759
+        },
+        {
+          "month": "June",
+          "value": 924
+        },
+        {
+          "month": "July",
+          "value": 1004
+        },
+        {
+          "month": "August",
+          "value": 1009
+        },
+        {
+          "month": "September",
+          "value": 1201
+        },
+        {
+          "month": "October",
+          "value": 1241
+        },
+        {
+          "month": "November",
+          "value": 1227
+        },
+        {
+          "month": "December",
+          "value": 1321
+        }
+      ],
+      "contact": {
+        "manager": "Layla Hijazi",
+        "phone": "+962-3-2014682",
+        "email": "layla.hijazi@amana-textiles.com"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Amana Industries Cairo",
+      "location": {
+        "city": "Cairo",
+        "country": "Egypt",
+        "latitude": 30.0444,
+        "longitude": 31.2357,
+        "address": "10th of Ramadan Industrial City, Cairo, Egypt"
+      },
+      "status": "operational",
+      "established": "2016",
+      "employees": 620,
+      "specialization": [
+        "Mass Production",
+        "Basic Textiles",
+        "Polyester Blends"
+      ],
+      "production_capacity_monthly": 1200,
+      "production_level_2024": [
+        {
+          "month": "January",
+          "value": 1246
+        },
+        {
+          "month": "February",
+          "value": 1123
+        },
+        {
+          "month": "March",
+          "value": 1318
+        },
+        {
+          "month": "April",
+          "value": 1163
+        },
+        {
+          "month": "May",
+          "value": 1092
+        },
+        {
+          "month": "June",
+          "value": 1126
+        },
+        {
+          "month": "July",
+          "value": 1025
+        },
+        {
+          "month": "August",
+          "value": 1206
+        },
+        {
+          "month": "September",
+          "value": 1503
+        },
+        {
+          "month": "October",
+          "value": 1482
+        },
+        {
+          "month": "November",
+          "value": 1372
+        },
+        {
+          "month": "December",
+          "value": 1497
+        }
+      ],
+      "inventory_level_2024": [
+        {
+          "month": "January",
+          "value": 417
+        },
+        {
+          "month": "February",
+          "value": 441
+        },
+        {
+          "month": "March",
+          "value": 591
+        },
+        {
+          "month": "April",
+          "value": 605
+        },
+        {
+          "month": "May",
+          "value": 775
+        },
+        {
+          "month": "June",
+          "value": 772
+        },
+        {
+          "month": "July",
+          "value": 869
+        },
+        {
+          "month": "August",
+          "value": 1049
+        },
+        {
+          "month": "September",
+          "value": 1310
+        },
+        {
+          "month": "October",
+          "value": 1433
+        },
+        {
+          "month": "November",
+          "value": 1510
+        },
+        {
+          "month": "December",
+          "value": 1405
+        }
+      ],
+      "contact": {
+        "manager": "Mohamed Hassan",
+        "phone": "+20-2-26851439",
+        "email": "mohamed.hassan@amana-textiles.com"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Amana Cotton Alexandria",
+      "location": {
+        "city": "Alexandria",
+        "country": "Egypt",
+        "latitude": 31.2001,
+        "longitude": 29.9187,
+        "address": "Borg El Arab Industrial Zone, Alexandria, Egypt"
+      },
+      "status": "maintenance",
+      "established": "2019",
+      "employees": 290,
+      "specialization": [
+        "Egyptian Cotton",
+        "Premium Yarns",
+        "Luxury Textiles"
+      ],
+      "production_capacity_monthly": 480,
+      "production_level_2024": [
+        {
+          "month": "January",
+          "value": 313
+        },
+        {
+          "month": "February",
+          "value": 328
+        },
+        {
+          "month": "March",
+          "value": 303
+        },
+        {
+          "month": "April",
+          "value": 332
+        },
+        {
+          "month": "May",
+          "value": 340
+        },
+        {
+          "month": "June",
+          "value": 292
+        },
+        {
+          "month": "July",
+          "value": 320
+        },
+        {
+          "month": "August",
+          "value": 277
+        },
+        {
+          "month": "September",
+          "value": 386
+        },
+        {
+          "month": "October",
+          "value": 320
+        },
+        {
+          "month": "November",
+          "value": 357
+        },
+        {
+          "month": "December",
+          "value": 362
+        }
+      ],
+      "inventory_level_2024": [
+        {
+          "month": "January",
+          "value": 474
+        },
+        {
+          "month": "February",
+          "value": 492
+        },
+        {
+          "month": "March",
+          "value": 509
+        },
+        {
+          "month": "April",
+          "value": 485
+        },
+        {
+          "month": "May",
+          "value": 530
+        },
+        {
+          "month": "June",
+          "value": 568
+        },
+        {
+          "month": "July",
+          "value": 627
+        },
+        {
+          "month": "August",
+          "value": 643
+        },
+        {
+          "month": "September",
+          "value": 708
+        },
+        {
+          "month": "October",
+          "value": 803
+        },
+        {
+          "month": "November",
+          "value": 842
+        },
+        {
+          "month": "December",
+          "value": 927
+        }
+      ],
+      "contact": {
+        "manager": "Nour El-Din Farouk",
+        "phone": "+20-3-4592817",
+        "email": "nour.farouk@amana-textiles.com"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Amana Synthetic Giza",
+      "location": {
+        "city": "Giza",
+        "country": "Egypt",
+        "latitude": 30.0131,
+        "longitude": 31.2089,
+        "address": "6th of October Industrial City, Giza, Egypt"
+      },
+      "status": "operational",
+      "established": "2022",
+      "employees": 510,
+      "specialization": [
+        "Synthetic Fibers",
+        "Performance Fabrics",
+        "Athletic Wear"
+      ],
+      "production_capacity_monthly": 890,
+      "production_level_2024": [
+        {
+          "month": "January",
+          "value": 919
+        },
+        {
+          "month": "February",
+          "value": 857
+        },
+        {
+          "month": "March",
+          "value": 797
+        },
+        {
+          "month": "April",
+          "value": 796
+        },
+        {
+          "month": "May",
+          "value": 785
+        },
+        {
+          "month": "June",
+          "value": 793
+        },
+        {
+          "month": "July",
+          "value": 714
+        },
+        {
+          "month": "August",
+          "value": 801
+        },
+        {
+          "month": "September",
+          "value": 1087
+        },
+        {
+          "month": "October",
+          "value": 965
+        },
+        {
+          "month": "November",
+          "value": 1118
+        },
+        {
+          "month": "December",
+          "value": 928
+        }
+      ],
+      "inventory_level_2024": [
+        {
+          "month": "January",
+          "value": 644
+        },
+        {
+          "month": "February",
+          "value": 863
+        },
+        {
+          "month": "March",
+          "value": 975
+        },
+        {
+          "month": "April",
+          "value": 1127
+        },
+        {
+          "month": "May",
+          "value": 1099
+        },
+        {
+          "month": "June",
+          "value": 1254
+        },
+        {
+          "month": "July",
+          "value": 1358
+        },
+        {
+          "month": "August",
+          "value": 1298
+        },
+        {
+          "month": "September",
+          "value": 1415
+        },
+        {
+          "month": "October",
+          "value": 1338
+        },
+        {
+          "month": "November",
+          "value": 1273
+        },
+        {
+          "month": "December",
+          "value": 1320
+        }
+      ],
+      "contact": {
+        "manager": "Amira Soliman",
+        "phone": "+20-2-38461725",
+        "email": "amira.soliman@amana-textiles.com"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Amana Finishing Suez",
+      "location": {
+        "city": "Suez",
+        "country": "Egypt",
+        "latitude": 29.9668,
+        "longitude": 32.5498,
+        "address": "Suez Industrial Zone, Suez Governorate, Egypt"
+      },
+      "status": "operational",
+      "established": "2020",
+      "employees": 340,
+      "specialization": [
+        "Fabric Finishing",
+        "Dyeing",
+        "Quality Control"
+      ],
+      "production_capacity_monthly": 560,
+      "production_level_2024": [
+        {
+          "month": "January",
+          "value": 607
+        },
+        {
+          "month": "February",
+          "value": 519
+        },
+        {
+          "month": "March",
+          "value": 499
+        },
+        {
+          "month": "April",
+          "value": 496
+        },
+        {
+          "month": "May",
+          "value": 586
+        },
+        {
+          "month": "June",
+          "value": 546
+        },
+        {
+          "month": "July",
+          "value": 469
+        },
+        {
+          "month": "August",
+          "value": 490
+        },
+        {
+          "month": "September",
+          "value": 600
+        },
+        {
+          "month": "October",
+          "value": 584
+        },
+        {
+          "month": "November",
+          "value": 683
+        },
+        {
+          "month": "December",
+          "value": 534
+        }
+      ],
+      "inventory_level_2024": [
+        {
+          "month": "January",
+          "value": 571
+        },
+        {
+          "month": "February",
+          "value": 533
+        },
+        {
+          "month": "March",
+          "value": 581
+        },
+        {
+          "month": "April",
+          "value": 652
+        },
+        {
+          "month": "May",
+          "value": 708
+        },
+        {
+          "month": "June",
+          "value": 796
+        },
+        {
+          "month": "July",
+          "value": 826
+        },
+        {
+          "month": "August",
+          "value": 944
+        },
+        {
+          "month": "September",
+          "value": 911
+        },
+        {
+          "month": "October",
+          "value": 1007
+        },
+        {
+          "month": "November",
+          "value": 986
+        },
+        {
+          "month": "December",
+          "value": 979
+        }
+      ],
+      "contact": {
+        "manager": "Youssef Abdel Rahman",
+        "phone": "+20-62-3194856",
+        "email": "youssef.rahman@amana-textiles.com"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Amana Export Damietta",
+      "location": {
+        "city": "Damietta",
+        "country": "Egypt",
+        "latitude": 31.4165,
+        "longitude": 31.8133,
+        "address": "New Damietta Industrial Zone, Damietta, Egypt"
+      },
+      "status": "operational",
+      "established": "2018",
+      "employees": 410,
+      "specialization": [
+        "Export Processing",
+        "International Standards",
+        "Packaging"
+      ],
+      "production_capacity_monthly": 750,
+      "production_level_2024": [
+        {
+          "month": "January",
+          "value": 639
+        },
+        {
+          "month": "February",
+          "value": 689
+        },
+        {
+          "month": "March",
+          "value": 860
+        },
+        {
+          "month": "April",
+          "value": 810
+        },
+        {
+          "month": "May",
+          "value": 834
+        },
+        {
+          "month": "June",
+          "value": 620
+        },
+        {
+          "month": "July",
+          "value": 739
+        },
+        {
+          "month": "August",
+          "value": 607
+        },
+        {
+          "month": "September",
+          "value": 920
+        },
+        {
+          "month": "October",
+          "value": 936
+        },
+        {
+          "month": "November",
+          "value": 919
+        },
+        {
+          "month": "December",
+          "value": 776
+        }
+      ],
+      "inventory_level_2024": [
+        {
+          "month": "January",
+          "value": 554
+        },
+        {
+          "month": "February",
+          "value": 587
+        },
+        {
+          "month": "March",
+          "value": 840
+        },
+        {
+          "month": "April",
+          "value": 1016
+        },
+        {
+          "month": "May",
+          "value": 1213
+        },
+        {
+          "month": "June",
+          "value": 1227
+        },
+        {
+          "month": "July",
+          "value": 1397
+        },
+        {
+          "month": "August",
+          "value": 1579
+        },
+        {
+          "month": "September",
+          "value": 1563
+        },
+        {
+          "month": "October",
+          "value": 1533
+        },
+        {
+          "month": "November",
+          "value": 1554
+        },
+        {
+          "month": "December",
+          "value": 1480
+        }
+      ],
+      "contact": {
+        "manager": "Maha Zaki",
+        "phone": "+20-57-2836149",
+        "email": "maha.zaki@amana-textiles.com"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Amana Research Aswan",
+      "location": {
+        "city": "Aswan",
+        "country": "Egypt",
+        "latitude": 24.0889,
+        "longitude": 32.8998,
+        "address": "Aswan Industrial Development Zone, Aswan, Egypt"
+      },
+      "status": "maintenance",
+      "established": "2023",
+      "employees": 180,
+      "specialization": [
+        "R&D",
+        "Sustainable Textiles",
+        "Innovation Lab"
+      ],
+      "production_capacity_monthly": 220,
+      "production_level_2024": [
+        {
+          "month": "January",
+          "value": 154
+        },
+        {
+          "month": "February",
+          "value": 138
+        },
+        {
+          "month": "March",
+          "value": 136
+        },
+        {
+          "month": "April",
+          "value": 132
+        },
+        {
+          "month": "May",
+          "value": 135
+        },
+        {
+          "month": "June",
+          "value": 138
+        },
+        {
+          "month": "July",
+          "value": 146
+        },
+        {
+          "month": "August",
+          "value": 146
+        },
+        {
+          "month": "September",
+          "value": 173
+        },
+        {
+          "month": "October",
+          "value": 160
+        },
+        {
+          "month": "November",
+          "value": 204
+        },
+        {
+          "month": "December",
+          "value": 193
+        }
+      ],
+      "inventory_level_2024": [
+        {
+          "month": "January",
+          "value": 523
+        },
+        {
+          "month": "February",
+          "value": 531
+        },
+        {
+          "month": "March",
+          "value": 570
+        },
+        {
+          "month": "April",
+          "value": 596
+        },
+        {
+          "month": "May",
+          "value": 604
+        },
+        {
+          "month": "June",
+          "value": 631
+        },
+        {
+          "month": "July",
+          "value": 639
+        },
+        {
+          "month": "August",
+          "value": 681
+        },
+        {
+          "month": "September",
+          "value": 716
+        },
+        {
+          "month": "October",
+          "value": 709
+        },
+        {
+          "month": "November",
+          "value": 737
+        },
+        {
+          "month": "December",
+          "value": 738
+        }
+      ],
+      "contact": {
+        "manager": "Dr. Salma Nasser",
+        "phone": "+20-97-2461837",
+        "email": "salma.nasser@amana-textiles.com"
+      }
+    }
+  ],
+  "filters": {
+    "available_countries": [
+      "Jordan",
+      "Egypt"
+    ],
+    "available_statuses": [
+      "operational",
+      "maintenance"
+    ],
+    "applied": {
+      "country": null,
+      "status": null,
+      "factoryId": null
+    }
+  }
+}
